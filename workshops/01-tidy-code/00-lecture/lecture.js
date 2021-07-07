@@ -28,3 +28,4 @@ for (let i = 0; i < currentTemp; i++) {}
 // don't use too many comments
 // comments should explain why you made a decision
 // comments should not explain what you're doing in code. Your code should be written so elegantly that it's obvious to another person what you're doing
+// I'm writing too many comments in my files because I'm teaching lol. If I was problem solving only then I wouldn't (just incase you're confused)
