@@ -6,7 +6,7 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 **[Live Lecture](https://youtu.be/rD61Cme15gM)**
 
-**[Live Review](https://youtu.be/Ex10t-MrL2A)**
+**[Live Review](https://youtu.be/QtBWtR4rIh0)**
 
 [Live Lecture Slides](workshops/01-tidy-code/00-lecture/IntroductionTidyCode.pdf)
 
