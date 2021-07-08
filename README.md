@@ -13,3 +13,21 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 [Live Lecture Notes](workshops/01-tidy-code/00-lecture/lecture.js)
 
 [Noor's Solutions](workshops/01-tidy-code)
+
+## **02 Loops and Debugging**
+
+**[Live Lecture](https://youtu.be/hTrU1eoRjyU)**
+
+**[Live Review](https://youtu.be/vUF6_Q_kgpI)**
+
+[Live Lecture Slides](https://docs.google.com/presentation/d/1xd6W1ckVETYwgudogZNFXnnsVStAVc-De7DPInLOSic/edit?usp=sharing)
+
+## **03 Coercion and Truthiness**
+
+<!-- 
+**[Live Lecture]()**
+
+**[Live Review]()** -->
+
+[Live Lecture Slides](https://docs.google.com/presentation/d/1NyhpFRgDapA9bDYbhKJArstDv2dgo1SgbJex1QXHzv0/edit?usp=sharing)
+
