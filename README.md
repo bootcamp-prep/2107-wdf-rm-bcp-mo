@@ -24,10 +24,8 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 ## **03 Coercion and Truthiness**
 
-<!-- 
-**[Live Lecture]()**
-
-**[Live Review]()** -->
+**[Live Lecture & Review](https://youtu.be/_PHKsX_b3MA)**
 
 [Live Lecture Slides](https://docs.google.com/presentation/d/1NyhpFRgDapA9bDYbhKJArstDv2dgo1SgbJex1QXHzv0/edit?usp=sharing)
+
 
