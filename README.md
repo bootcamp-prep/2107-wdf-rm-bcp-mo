@@ -28,4 +28,14 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 [Live Lecture Slides](https://docs.google.com/presentation/d/1NyhpFRgDapA9bDYbhKJArstDv2dgo1SgbJex1QXHzv0/edit?usp=sharing)
 
+## **04 Interview Prep - REACTO**
 
+**[Live Lecture](https://youtu.be/8aWcv2CoSRk)**
+
+**[Live Review](https://youtu.be/oxdmQnfxUnQ)**
+
+[Lecture Slides](workshops/04-reacto-1/00-lecture/04.BCP-REACTO.pdf)
+
+[Lecture Notes - Noor](workshops/04-reacto-1/00-lecture/lecture.js)
+
+[solutions](workshops/04-reacto-1)
