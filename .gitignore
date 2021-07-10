@@ -2,15 +2,17 @@
 
 # comment the path below when you're ready to push the folder to github
 
+# workshops/01-tidy-code
 workshops/02-loops
-workshops/03-coercion-and-truthiness
-workshops/03-coercion-and-truthiness
-workshops/04-scope
-workshops/05-arrays-i
-workshops/06-arrays-ii
-workshops/07-objects
-workshops/12-recursion-i
-workshops/13-recursion-ii
+# workshops/03-coercion-and-truthiness
+# workshops/04-reacto-1
+workshops/05-scope
+workshops/06-arrays-i
+workshops/07-arrays-ii
+workshops/08-reacto-2
+workshops/09-objects
+workshops/10-recursion-i
+workshops/11-recursion-ii
 
 # please do not delete any paths below this line
 
