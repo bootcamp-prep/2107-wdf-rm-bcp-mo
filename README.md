@@ -39,3 +39,15 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 [Lecture Notes - Noor](workshops/04-reacto-1/00-lecture/lecture.js)
 
 [solutions](workshops/04-reacto-1)
+
+## **05-Scope**
+
+**[Live Lecture](https://youtu.be/40-FL8x60NY)**
+
+**[Live Review](https://youtu.be/N4y4s4r6RCo)**
+
+[Lecture Slides](workshops/05-scope/00-lecture/05.Scope.pdf)
+
+[Lecture Notes - Noor](workshops/05-scope/00-lecture/lecture.js)
+
+[solutions](workshops/05-scope/00-lecture/solutions.js)
