@@ -40,6 +40,8 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 [solutions](workshops/04-reacto-1)
 
+[solutions-substring](workshops/04-reacto-1/02-stringManipulation/substring.js)
+
 ## **05-Scope**
 
 **[Live Lecture](https://youtu.be/40-FL8x60NY)**
@@ -51,3 +53,15 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 [Lecture Notes - Noor](workshops/05-scope/00-lecture/lecture.js)
 
 [solutions](workshops/05-scope/00-lecture/solutions.js)
+
+## **06-Arrays I**
+
+**[Live Lecture](https://youtu.be/23_LNqVmYko)**
+
+**[Live Review](https://youtu.be/8ome2dIEvY8)**
+
+[Lecture Slides](workshops/06-arrays-i/00-lecture/06.ArraysI.pdf)
+
+[Lecture Notes - Noor](workshops/06-arrays-i/00-lecture/lecture.js)
+
+[solutions](workshops/06-arrays-i/solutions.js)
