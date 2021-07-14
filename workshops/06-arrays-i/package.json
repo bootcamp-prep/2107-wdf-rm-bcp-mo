@@ -1,0 +1,23 @@
+{
+  "name": "bcp-workshop",
+  "version": "1.0.0",
+  "description": "BCP workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem",
+    "grade": "node_modules/.bin/testem ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullstackAcademy/BCP-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullstackAcademy/BCP-3/issues"
+  },
+  "homepage": "https://github.com/FullstackAcademy/BCP-3",
+  "dependencies": {
+    "testem": "^1.6.0"
+  }
+}
