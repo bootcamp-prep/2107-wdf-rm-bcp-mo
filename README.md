@@ -73,9 +73,9 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 **[Live Review](https://youtu.be/WBiL88U-SOs)**
 
-[Lecture Slides](workshops/07-arrays-iii/lecture.js)
+[Lecture Slides](https://docs.google.com/presentation/d/1XgudYRvFu4EN7v391XY018Eq2Q4UKdb9FO7FSYOg2r0/edit?usp=sharing)
 
-<!-- [Lecture Notes - Laura](workshops/06-arrays-i/00-lecture/lecture.js) -->
+[Lecture Notes - Laura](workshops/07-arrays-ii/lecture.js)
 
 <!-- [Laura's solutions](workshops/06-arrays-i/solutions.js) -->
 
