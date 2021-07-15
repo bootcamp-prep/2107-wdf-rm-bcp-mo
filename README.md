@@ -68,12 +68,12 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 
 ## **07-Arrays II**
-<!-- 
-**[Live Lecture]()**
 
-**[Live Review]()** -->
+**[Live Lecture](https://youtu.be/10oHCuAmkg4)**
 
-[Lecture Slides](https://docs.google.com/presentation/d/1XgudYRvFu4EN7v391XY018Eq2Q4UKdb9FO7FSYOg2r0/edit?usp=sharing)
+**[Live Review](https://youtu.be/WBiL88U-SOs)**
+
+[Lecture Slides](workshops/07-arrays-iii/lecture.js)
 
 <!-- [Lecture Notes - Laura](workshops/06-arrays-i/00-lecture/lecture.js) -->
 
