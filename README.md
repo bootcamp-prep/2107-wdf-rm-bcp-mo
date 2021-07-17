@@ -86,3 +86,10 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 **[Live Review pt 2](https://youtu.be/-zuTaTg3d_U)**
 
 [Lecture Slides](https://docs.google.com/presentation/d/1Le_1ziXvdG0Dass83XHJxRIBLUYhP6VH4P1Y-w1rSkk/edit?usp=sharing)
+
+
+## **supplemental saturday**
+
+**[Video](https://youtu.be/3Iw0_1s1Sns)**
+
+**[Document](https://docs.google.com/document/d/13q6vPGM2RC9_GVfKOJ94fTKv1GXi6yhxmTwqzf2jfHs/edit?usp=sharing)**
