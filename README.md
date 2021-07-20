@@ -66,6 +66,31 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 [solutions](workshops/06-arrays-i/solutions.js)
 
+## **07-Arrays II**
+
+**[Live Lecture](https://youtu.be/10oHCuAmkg4)**
+
+**[Live Review](https://youtu.be/WBiL88U-SOs)**
+
+[Lecture Slides](https://docs.google.com/presentation/d/1XgudYRvFu4EN7v391XY018Eq2Q4UKdb9FO7FSYOg2r0/edit?usp=sharing)
+
+[Lecture Notes - Laura](workshops/07-arrays-ii/lecture.js)
+
+## **08-REACTO II**
+
+**[Live Lecture](https://youtu.be/y38sqf2IwX8)**
+
+**[Live Review pt 1](https://youtu.be/hMc2i4yQchE)**
+**[Live Review pt 2](https://youtu.be/-zuTaTg3d_U)**
+
+[Lecture Slides](https://docs.google.com/presentation/d/1Le_1ziXvdG0Dass83XHJxRIBLUYhP6VH4P1Y-w1rSkk/edit?usp=sharing)
+
+## **supplemental saturday**
+
+**[Video](https://youtu.be/3Iw0_1s1Sns)**
+
+**[Document](https://docs.google.com/document/d/13q6vPGM2RC9_GVfKOJ94fTKv1GXi6yhxmTwqzf2jfHs/edit?usp=sharing)**
+
 ## **09-Objects**
 
 <!-- **[Live Lecture](https://youtu.be/23_LNqVmYko)**

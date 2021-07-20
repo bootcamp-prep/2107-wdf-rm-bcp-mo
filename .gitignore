@@ -3,14 +3,20 @@
 # comment the path below when you're ready to push the folder to github
 
 # workshops/01-tidy-code
-workshops/02-loops
+# workshops/02-loops
 # workshops/03-coercion-and-truthiness
 # workshops/04-reacto-1
 # workshops/05-scope
 # workshops/06-arrays-i
+<<<<<<< HEAD
 workshops/07-arrays-ii
 workshops/08-reacto-2
 # workshops/09-objects
+=======
+# workshops/07-arrays-ii
+# workshops/08-reacto-2
+workshops/09-objects
+>>>>>>> c443845186577de5870c7caa1ae5a51f381c83b4
 workshops/10-recursion-i
 workshops/11-recursion-ii
 
