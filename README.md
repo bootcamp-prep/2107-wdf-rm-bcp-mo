@@ -65,3 +65,11 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 [Lecture Notes - Noor](workshops/06-arrays-i/00-lecture/lecture.js)
 
 [solutions](workshops/06-arrays-i/solutions.js)
+
+## **09-Objects**
+
+<!-- **[Live Lecture](https://youtu.be/23_LNqVmYko)**
+
+**[Live Review](https://youtu.be/8ome2dIEvY8)** -->
+
+[Lecture Slides](workshops/09-objects/00-lecture/09.Objects.pdf)
