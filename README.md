@@ -105,7 +105,7 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 
 **[Live Review](https://youtu.be/PgYPYrHVebs)**
 
-[Lecture Slides](workshops/09-objects/00-lecture/09.Objects.pdf)
+[Lecture Slides](workshops/10-recursion-i/00-lecture/10.Recursion%201.pdf)
 
 
 ## **10-Recursion II**
