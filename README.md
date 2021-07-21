@@ -106,3 +106,20 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 **[Live Review](https://youtu.be/PgYPYrHVebs)**
 
 [Lecture Slides](workshops/09-objects/00-lecture/09.Objects.pdf)
+
+
+## **10-Recursion II**
+<!-- 
+**[Live Lecture]()**
+
+**[Live Review]()** -->
+
+[Lecture Slides](https://docs.google.com/presentation/d/1Lu8K6-02swM--9ggI_GCGycI591gK2z1pSCWqyn0lrk/edit?usp=sharing)
+
+## **Next Steps**
+<!-- 
+**[Live Lecture]()**
+
+**[Live Review]()** -->
+
+[Lecture Slides](https://docs.google.com/presentation/d/1NHrlBNvS6p3HoJWMQ-BiRaU--2A-qYMr56199Qorcx0/edit?usp=sharing)
