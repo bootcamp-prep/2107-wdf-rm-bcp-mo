@@ -119,7 +119,7 @@ Hello! This is where Noor and Laura will put all the material for BCP. If a link
 ## **Next Steps**
 <!-- 
 **[Live Lecture]()**
-
+    
 **[Live Review]()** -->
 
 [Lecture Slides](https://docs.google.com/presentation/d/1NHrlBNvS6p3HoJWMQ-BiRaU--2A-qYMr56199Qorcx0/edit?usp=sharing)
